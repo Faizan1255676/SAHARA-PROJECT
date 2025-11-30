@@ -1,17 +1,52 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌐 SAHARA — Smart AI-Powered Community Safety Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SAHARA is an AI-driven community safety and assistance system designed to help users stay safe, report incidents, find nearby safe zones, connect with neighbors, and get instant AI support in emergency situations.
 
-Currently, two official plugins are available:
+This project was built for the **Pragati AI Impact Hackathon** with the goal of leveraging Artificial Intelligence to support public safety and community well-being.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo  
+🔗 **https://sahara-project-lqrphmutl-fk818717-gmailcoms-projects.vercel.app**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# SAHARA-PROJECT
-SAHARA is an AI-powered disaster response platform delivering real-time verified alerts, safe evacuation routes, and instant fake-news detection. It ensures transparent relief distribution and connects citizens, NGOs, and authorities for fast, reliable, life-saving coordination.
->>>>>>> b41b4faa8c206351f07ab0e23a3ca2ed2be70ee1
+---
+
+## 📌 Key Features
+
+### 🧠 AI-Powered Emergency Assistance  
+- Get instant guidance from an AI assistant during unsafe or emergency situations.  
+- Provides step-by-step help, safety tips, and quick responses.
+
+### 🧭 Safe Zones Locator  
+- View nearby hospitals, police stations, safety shelters, and public help centers.
+
+### 👥 Neighbors Network  
+- Connect with nearby trusted community members for help.  
+- Useful during emergencies, local incidents, or urgent needs.
+
+### 🚨 Alerts & Broadcasting  
+- Receive real-time alerts and warnings.  
+- Broadcast emergency messages to nearby people.
+
+### 🎨 Modern UI  
+- Clean, responsive design built using **React + Vite**.  
+- Smooth animations and aesthetic components.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React.js  
+- Vite  
+- Tailwind CSS  
+- JavaScript (ES6)  
+- ShadCN UI Components  
+
+### **Deployment**
+- Vercel
+
+---
+
+## 📁 Project Structure
+
